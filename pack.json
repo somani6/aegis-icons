@@ -8095,6 +8095,13 @@
             "issuer": [
                 "Ernst Sutter AG"
             ]
+        },
+		{
+            "filename": "icons/9_Custom/Passbolt.svg",
+            "category": "9. Custom",
+            "issuer": [
+                "Passbolt"
+            ]
         }
     ]
 }
