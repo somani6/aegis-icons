@@ -8088,6 +8088,13 @@
             "issuer": [
                 "omg.lol"
             ]
+        },
+        {
+            "filename": "icons/9_Custom/Ernst Sutter AG.svg",
+            "category": "9. Custom",
+            "issuer": [
+                "Ernst Sutter AG"
+            ]
         }
     ]
 }
